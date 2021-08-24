@@ -13,7 +13,7 @@ And Add This Class -> Schema::defaultstringLength(191);
 ## 2.Create Database
 
 After Creating a Database
-go to .env file and connect Application with database
+go to .env file and Connect Application with database
 
 Enter in Terminal 
 ## 3.composer require laravel/jetstream
